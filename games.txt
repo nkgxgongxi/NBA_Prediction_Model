@@ -1,0 +1,990 @@
+12/25/2011,Dallas Mavericks,Miami Heat
+12/25/2011,Golden State Warriors,Los Angeles Clippers
+12/25/2011,Los Angeles Lakers,Chicago Bulls
+12/25/2011,New York Knicks,Boston Celtics
+12/25/2011,Oklahoma City Thunder,Orlando Magic
+12/26/2011,Charlotte Bobcats,Milwaukee Bucks
+12/26/2011,Cleveland Cavaliers,Toronto Raptors
+12/26/2011,Dallas Mavericks,Denver Nuggets
+12/26/2011,Golden State Warriors,Chicago Bulls
+12/26/2011,Indiana Pacers,Detroit Pistons
+12/26/2011,Minnesota Timberwolves,Oklahoma City Thunder
+12/26/2011,Orlando Magic,Houston Rockets
+12/26/2011,Phoenix Suns,New Orleans Hornets
+12/26/2011,Portland Trail Blazers,Philadelphia 76ers
+12/26/2011,Sacramento Kings,Los Angeles Lakers
+12/26/2011,San Antonio Spurs,Memphis Grizzlies
+12/26/2011,Washington Wizards,New Jersey Nets
+12/27/2011,Los Angeles Lakers,Utah Jazz
+12/27/2011,Miami Heat,Boston Celtics
+12/27/2011,Milwaukee Bucks,Minnesota Timberwolves
+12/27/2011,New Jersey Nets,Atlanta Hawks
+12/27/2011,Portland Trail Blazers,Sacramento Kings
+12/28/2011,Atlanta Hawks,Washington Wizards
+12/28/2011,Charlotte Bobcats,Miami Heat
+12/28/2011,Denver Nuggets,Utah Jazz
+12/28/2011,Detroit Pistons,Cleveland Cavaliers
+12/28/2011,Golden State Warriors,New York Knicks
+12/28/2011,Memphis Grizzlies,Oklahoma City Thunder
+12/28/2011,New Orleans Hornets,Boston Celtics
+12/28/2011,Phoenix Suns,Philadelphia 76ers
+12/28/2011,San Antonio Spurs,Los Angeles Clippers
+12/28/2011,Toronto Raptors,Indiana Pacers
+12/29/2011,Houston Rockets,San Antonio Spurs
+12/29/2011,Los Angeles Lakers,New York Knicks
+12/29/2011,Oklahoma City Thunder,Dallas Mavericks
+12/29/2011,Orlando Magic,New Jersey Nets
+12/29/2011,Portland Trail Blazers,Denver Nuggets
+12/29/2011,Sacramento Kings,Chicago Bulls
+12/30/2011,Atlanta Hawks,New Jersey Nets
+12/30/2011,Boston Celtics,Detroit Pistons
+12/30/2011,Charlotte Bobcats,Orlando Magic
+12/30/2011,Dallas Mavericks,Toronto Raptors
+12/30/2011,Indiana Pacers,Cleveland Cavaliers
+12/30/2011,Los Angeles Clippers,Chicago Bulls
+12/30/2011,Memphis Grizzlies,Houston Rockets
+12/30/2011,Milwaukee Bucks,Washington Wizards
+12/30/2011,Minnesota Timberwolves,Miami Heat
+12/30/2011,New Orleans Hornets,Phoenix Suns
+12/30/2011,Utah Jazz,Philadelphia 76ers
+12/31/2011,Detroit Pistons,Indiana Pacers
+12/31/2011,Golden State Warriors,Philadelphia 76ers
+12/31/2011,Houston Rockets,Atlanta Hawks
+12/31/2011,Los Angeles Lakers,Denver Nuggets
+12/31/2011,Oklahoma City Thunder,Phoenix Suns
+12/31/2011,Sacramento Kings,New York Knicks
+12/31/2011,San Antonio Spurs,Utah Jazz
+01/01/2012,Chicago Bulls,Memphis Grizzlies
+01/01/2012,Cleveland Cavaliers,New Jersey Nets
+01/01/2012,Denver Nuggets,Los Angeles Lakers
+01/01/2012,Los Angeles Clippers,Portland Trail Blazers
+01/01/2012,Miami Heat,Charlotte Bobcats
+01/01/2012,Minnesota Timberwolves,Dallas Mavericks
+01/01/2012,Orlando Magic,Toronto Raptors
+01/01/2012,Sacramento Kings,New Orleans Hornets
+01/01/2012,Washington Wizards,Boston Celtics
+01/02/2012,Boston Celtics,Washington Wizards
+01/02/2012,Dallas Mavericks,Oklahoma City Thunder
+01/02/2012,Denver Nuggets,Milwaukee Bucks
+01/02/2012,Detroit Pistons,Orlando Magic
+01/02/2012,Miami Heat,Atlanta Hawks
+01/02/2012,Minnesota Timberwolves,San Antonio Spurs
+01/02/2012,New Jersey Nets,Indiana Pacers
+01/02/2012,New York Knicks,Toronto Raptors
+01/02/2012,Phoenix Suns,Golden State Warriors
+01/02/2012,Utah Jazz,New Orleans Hornets
+01/03/2012,Chicago Bulls,Atlanta Hawks
+01/03/2012,Cleveland Cavaliers,Charlotte Bobcats
+01/03/2012,Los Angeles Lakers,Houston Rockets
+01/03/2012,Memphis Grizzlies,Sacramento Kings
+01/03/2012,Oklahoma City Thunder,Portland Trail Blazers
+01/03/2012,Utah Jazz,Milwaukee Bucks
+01/04/2012,Boston Celtics,New Jersey Nets
+01/04/2012,Dallas Mavericks,Phoenix Suns
+01/04/2012,Denver Nuggets,Sacramento Kings
+01/04/2012,Detroit Pistons,Chicago Bulls
+01/04/2012,Los Angeles Clippers,Houston Rockets
+01/04/2012,Miami Heat,Indiana Pacers
+01/04/2012,Minnesota Timberwolves,Memphis Grizzlies
+01/04/2012,New Orleans Hornets,Philadelphia 76ers
+01/04/2012,New York Knicks,Charlotte Bobcats
+01/04/2012,Orlando Magic,Washington Wizards
+01/04/2012,San Antonio Spurs,Golden State Warriors
+01/04/2012,Toronto Raptors,Cleveland Cavaliers
+01/05/2012,Atlanta Hawks,Miami Heat
+01/05/2012,Portland Trail Blazers,Los Angeles Lakers
+01/05/2012,Sacramento Kings,Milwaukee Bucks
+01/05/2012,San Antonio Spurs,Dallas Mavericks
+01/06/2012,Boston Celtics,Indiana Pacers
+01/06/2012,Charlotte Bobcats,Atlanta Hawks
+01/06/2012,Los Angeles Lakers,Golden State Warriors
+01/06/2012,Minnesota Timberwolves,Cleveland Cavaliers
+01/06/2012,New Orleans Hornets,Denver Nuggets
+01/06/2012,Oklahoma City Thunder,Houston Rockets
+01/06/2012,Orlando Magic,Chicago Bulls
+01/06/2012,Philadelphia 76ers,Detroit Pistons
+01/06/2012,Phoenix Suns,Portland Trail Blazers
+01/06/2012,Toronto Raptors,New Jersey Nets
+01/06/2012,Utah Jazz,Memphis Grizzlies
+01/06/2012,Washington Wizards,New York Knicks
+01/07/2012,Atlanta Hawks,Chicago Bulls
+01/07/2012,Dallas Mavericks,New Orleans Hornets
+01/07/2012,Detroit Pistons,New York Knicks
+01/07/2012,Golden State Warriors,Utah Jazz
+01/07/2012,Houston Rockets,Oklahoma City Thunder
+01/07/2012,Indiana Pacers,Charlotte Bobcats
+01/07/2012,Los Angeles Clippers,Milwaukee Bucks
+01/07/2012,New Jersey Nets,Miami Heat
+01/07/2012,Philadelphia 76ers,Toronto Raptors
+01/07/2012,San Antonio Spurs,Denver Nuggets
+01/08/2012,Los Angeles Lakers,Memphis Grizzlies
+01/08/2012,Oklahoma City Thunder,San Antonio Spurs
+01/08/2012,Phoenix Suns,Milwaukee Bucks
+01/08/2012,Portland Trail Blazers,Cleveland Cavaliers
+01/08/2012,Sacramento Kings,Orlando Magic
+01/08/2012,Washington Wizards,Minnesota Timberwolves
+01/09/2012,Chicago Bulls,Detroit Pistons
+01/09/2012,Denver Nuggets,New Orleans Hornets
+01/09/2012,New Jersey Nets,Atlanta Hawks
+01/09/2012,New York Knicks,Charlotte Bobcats
+01/09/2012,Philadelphia 76ers,Indiana Pacers
+01/09/2012,Toronto Raptors,Minnesota Timberwolves
+01/10/2012,Charlotte Bobcats,Houston Rockets
+01/10/2012,Detroit Pistons,Dallas Mavericks
+01/10/2012,Golden State Warriors,Miami Heat
+01/10/2012,Los Angeles Lakers,Phoenix Suns
+01/10/2012,Memphis Grizzlies,Oklahoma City Thunder
+01/10/2012,Milwaukee Bucks,San Antonio Spurs
+01/10/2012,Minnesota Timberwolves,Chicago Bulls
+01/10/2012,Philadelphia 76ers,Sacramento Kings
+01/10/2012,Portland Trail Blazers,Los Angeles Clippers
+01/10/2012,Utah Jazz,Cleveland Cavaliers
+01/10/2012,Washington Wizards,Toronto Raptors
+01/11/2012,Boston Celtics,Dallas Mavericks
+01/11/2012,Chicago Bulls,Washington Wizards
+01/11/2012,Denver Nuggets,New Jersey Nets
+01/11/2012,Indiana Pacers,Atlanta Hawks
+01/11/2012,Los Angeles Clippers,Miami Heat
+01/11/2012,New Orleans Hornets,Oklahoma City Thunder
+01/11/2012,New York Knicks,Philadelphia 76ers
+01/11/2012,Portland Trail Blazers,Orlando Magic
+01/11/2012,San Antonio Spurs,Houston Rockets
+01/11/2012,Toronto Raptors,Sacramento Kings
+01/11/2012,Utah Jazz,Los Angeles Lakers
+01/12/2012,Atlanta Hawks,Charlotte Bobcats
+01/12/2012,Golden State Warriors,Orlando Magic
+01/12/2012,Memphis Grizzlies,New York Knicks
+01/12/2012,Milwaukee Bucks,Detroit Pistons
+01/12/2012,Phoenix Suns,Cleveland Cavaliers
+01/13/2012,Boston Celtics,Chicago Bulls
+01/13/2012,Charlotte Bobcats,Detroit Pistons
+01/13/2012,Dallas Mavericks,Milwaukee Bucks
+01/13/2012,Denver Nuggets,Miami Heat
+01/13/2012,Houston Rockets,Sacramento Kings
+01/13/2012,Los Angeles Lakers,Cleveland Cavaliers
+01/13/2012,New Orleans Hornets,Minnesota Timberwolves
+01/13/2012,Philadelphia 76ers,Washington Wizards
+01/13/2012,Phoenix Suns,New Jersey Nets
+01/13/2012,San Antonio Spurs,Portland Trail Blazers
+01/13/2012,Toronto Raptors,Indiana Pacers
+01/14/2012,Atlanta Hawks,Minnesota Timberwolves
+01/14/2012,Charlotte Bobcats,Golden State Warriors
+01/14/2012,Chicago Bulls,Toronto Raptors
+01/14/2012,Dallas Mavericks,Sacramento Kings
+01/14/2012,Houston Rockets,Portland Trail Blazers
+01/14/2012,Indiana Pacers,Boston Celtics
+01/14/2012,Los Angeles Clippers,Los Angeles Lakers
+01/14/2012,Memphis Grizzlies,New Orleans Hornets
+01/14/2012,Oklahoma City Thunder,New York Knicks
+01/14/2012,Utah Jazz,New Jersey Nets
+01/14/2012,Washington Wizards,Philadelphia 76ers
+01/15/2012,Denver Nuggets,Utah Jazz
+01/15/2012,Detroit Pistons,Golden State Warriors
+01/15/2012,San Antonio Spurs,Phoenix Suns
+01/16/2012,Atlanta Hawks,Toronto Raptors
+01/16/2012,Boston Celtics,Oklahoma City Thunder
+01/16/2012,Charlotte Bobcats,Cleveland Cavaliers
+01/16/2012,Los Angeles Clippers,New Jersey Nets
+01/16/2012,Los Angeles Lakers,Dallas Mavericks
+01/16/2012,Memphis Grizzlies,Chicago Bulls
+01/16/2012,Minnesota Timberwolves,Sacramento Kings
+01/16/2012,New Orleans Hornets,Portland Trail Blazers
+01/16/2012,New York Knicks,Orlando Magic
+01/16/2012,Philadelphia 76ers,Milwaukee Bucks
+01/16/2012,Washington Wizards,Houston Rockets
+01/17/2012,Chicago Bulls,Phoenix Suns
+01/17/2012,Cleveland Cavaliers,Golden State Warriors
+01/17/2012,Houston Rockets,Detroit Pistons
+01/17/2012,Miami Heat,San Antonio Spurs
+01/17/2012,Milwaukee Bucks,Denver Nuggets
+01/17/2012,Orlando Magic,Charlotte Bobcats
+01/17/2012,Utah Jazz,Los Angeles Clippers
+01/18/2012,Atlanta Hawks,Portland Trail Blazers
+01/18/2012,Boston Celtics,Toronto Raptors
+01/18/2012,Los Angeles Clippers,Dallas Mavericks
+01/18/2012,Minnesota Timberwolves,Detroit Pistons
+01/18/2012,New Jersey Nets,Golden State Warriors
+01/18/2012,New Orleans Hornets,Memphis Grizzlies
+01/18/2012,New York Knicks,Phoenix Suns
+01/18/2012,Orlando Magic,San Antonio Spurs
+01/18/2012,Philadelphia 76ers,Denver Nuggets
+01/18/2012,Sacramento Kings,Indiana Pacers
+01/18/2012,Washington Wizards,Oklahoma City Thunder
+01/19/2012,Houston Rockets,New Orleans Hornets
+01/19/2012,Miami Heat,Los Angeles Lakers
+01/19/2012,Utah Jazz,Dallas Mavericks
+01/20/2012,Boston Celtics,Phoenix Suns
+01/20/2012,Cleveland Cavaliers,Chicago Bulls
+01/20/2012,Detroit Pistons,Memphis Grizzlies
+01/20/2012,Golden State Warriors,Indiana Pacers
+01/20/2012,Los Angeles Clippers,Minnesota Timberwolves
+01/20/2012,New York Knicks,Milwaukee Bucks
+01/20/2012,Orlando Magic,Los Angeles Lakers
+01/20/2012,Philadelphia 76ers,Atlanta Hawks
+01/20/2012,San Antonio Spurs,Sacramento Kings
+01/20/2012,Toronto Raptors,Portland Trail Blazers
+01/20/2012,Washington Wizards,Denver Nuggets
+01/21/2012,Atlanta Hawks,Cleveland Cavaliers
+01/21/2012,Chicago Bulls,Charlotte Bobcats
+01/21/2012,Detroit Pistons,Portland Trail Blazers
+01/21/2012,Houston Rockets,San Antonio Spurs
+01/21/2012,Memphis Grizzlies,Sacramento Kings
+01/21/2012,Miami Heat,Philadelphia 76ers
+01/21/2012,New Jersey Nets,Oklahoma City Thunder
+01/21/2012,New Orleans Hornets,Dallas Mavericks
+01/21/2012,New York Knicks,Denver Nuggets
+01/21/2012,Utah Jazz,Minnesota Timberwolves
+01/22/2012,Los Angeles Clippers,Toronto Raptors
+01/22/2012,Los Angeles Lakers,Indiana Pacers
+01/22/2012,Miami Heat,Milwaukee Bucks
+01/22/2012,New Jersey Nets,Charlotte Bobcats
+01/22/2012,Washington Wizards,Boston Celtics
+01/23/2012,Boston Celtics,Orlando Magic
+01/23/2012,Chicago Bulls,New Jersey Nets
+01/23/2012,Dallas Mavericks,Phoenix Suns
+01/23/2012,Golden State Warriors,Memphis Grizzlies
+01/23/2012,Milwaukee Bucks,Atlanta Hawks
+01/23/2012,Minnesota Timberwolves,Houston Rockets
+01/23/2012,New Orleans Hornets,San Antonio Spurs
+01/23/2012,Oklahoma City Thunder,Detroit Pistons
+01/23/2012,Philadelphia 76ers,Washington Wizards
+01/23/2012,Portland Trail Blazers,Sacramento Kings
+01/24/2012,Charlotte Bobcats,New York Knicks
+01/24/2012,Indiana Pacers,Orlando Magic
+01/24/2012,Miami Heat,Cleveland Cavaliers
+01/24/2012,Phoenix Suns,Toronto Raptors
+01/24/2012,Portland Trail Blazers,Memphis Grizzlies
+01/25/2012,Chicago Bulls,Indiana Pacers
+01/25/2012,Cleveland Cavaliers,New York Knicks
+01/25/2012,Dallas Mavericks,Minnesota Timberwolves
+01/25/2012,Detroit Pistons,Miami Heat
+01/25/2012,Golden State Warriors,Portland Trail Blazers
+01/25/2012,Houston Rockets,Milwaukee Bucks
+01/25/2012,Los Angeles Lakers,Los Angeles Clippers
+01/25/2012,Oklahoma City Thunder,New Orleans Hornets
+01/25/2012,Philadelphia 76ers,New Jersey Nets
+01/25/2012,Sacramento Kings,Denver Nuggets
+01/25/2012,San Antonio Spurs,Atlanta Hawks
+01/25/2012,Utah Jazz,Toronto Raptors
+01/25/2012,Washington Wizards,Charlotte Bobcats
+01/26/2012,Los Angeles Clippers,Memphis Grizzlies
+01/26/2012,Orlando Magic,Boston Celtics
+01/27/2012,Boston Celtics,Indiana Pacers
+01/27/2012,Chicago Bulls,Milwaukee Bucks
+01/27/2012,Cleveland Cavaliers,New Jersey Nets
+01/27/2012,Dallas Mavericks,Utah Jazz
+01/27/2012,Denver Nuggets,Toronto Raptors
+01/27/2012,Detroit Pistons,Atlanta Hawks
+01/27/2012,Golden State Warriors,Oklahoma City Thunder
+01/27/2012,Houston Rockets,Washington Wizards
+01/27/2012,Miami Heat,New York Knicks
+01/27/2012,Minnesota Timberwolves,San Antonio Spurs
+01/27/2012,New Orleans Hornets,Orlando Magic
+01/27/2012,Philadelphia 76ers,Charlotte Bobcats
+01/27/2012,Portland Trail Blazers,Phoenix Suns
+01/28/2012,Charlotte Bobcats,Washington Wizards
+01/28/2012,Houston Rockets,New York Knicks
+01/28/2012,Milwaukee Bucks,Los Angeles Lakers
+01/28/2012,Philadelphia 76ers,Detroit Pistons
+01/28/2012,Phoenix Suns,Memphis Grizzlies
+01/28/2012,Utah Jazz,Sacramento Kings
+01/29/2012,Boston Celtics,Cleveland Cavaliers
+01/29/2012,Dallas Mavericks,San Antonio Spurs
+01/29/2012,Denver Nuggets,Los Angeles Clippers
+01/29/2012,Miami Heat,Chicago Bulls
+01/29/2012,Minnesota Timberwolves,Los Angeles Lakers
+01/29/2012,New Jersey Nets,Toronto Raptors
+01/29/2012,New Orleans Hornets,Atlanta Hawks
+01/29/2012,Orlando Magic,Indiana Pacers
+01/30/2012,Houston Rockets,Minnesota Timberwolves
+01/30/2012,Los Angeles Clippers,Oklahoma City Thunder
+01/30/2012,Memphis Grizzlies,San Antonio Spurs
+01/30/2012,Miami Heat,New Orleans Hornets
+01/30/2012,Milwaukee Bucks,Detroit Pistons
+01/30/2012,Philadelphia 76ers,Orlando Magic
+01/30/2012,Phoenix Suns,Dallas Mavericks
+01/30/2012,Utah Jazz,Portland Trail Blazers
+01/30/2012,Washington Wizards,Chicago Bulls
+01/31/2012,Cleveland Cavaliers,Boston Celtics
+01/31/2012,Golden State Warriors,Sacramento Kings
+01/31/2012,Indiana Pacers,New Jersey Nets
+01/31/2012,Los Angeles Lakers,Charlotte Bobcats
+01/31/2012,Memphis Grizzlies,Denver Nuggets
+01/31/2012,New York Knicks,Detroit Pistons
+01/31/2012,Toronto Raptors,Atlanta Hawks
+02/01/2012,Boston Celtics,Toronto Raptors
+02/01/2012,Dallas Mavericks,Oklahoma City Thunder
+02/01/2012,Milwaukee Bucks,Miami Heat
+02/01/2012,Minnesota Timberwolves,Indiana Pacers
+02/01/2012,New Jersey Nets,Detroit Pistons
+02/01/2012,New Orleans Hornets,Phoenix Suns
+02/01/2012,Orlando Magic,Washington Wizards
+02/01/2012,Philadelphia 76ers,Chicago Bulls
+02/01/2012,Portland Trail Blazers,Charlotte Bobcats
+02/01/2012,San Antonio Spurs,Houston Rockets
+02/01/2012,Utah Jazz,Los Angeles Clippers
+02/02/2012,Atlanta Hawks,Memphis Grizzlies
+02/02/2012,Golden State Warriors,Utah Jazz
+02/02/2012,Los Angeles Clippers,Denver Nuggets
+02/02/2012,New York Knicks,Chicago Bulls
+02/02/2012,Sacramento Kings,Portland Trail Blazers
+02/02/2012,San Antonio Spurs,New Orleans Hornets
+02/03/2012,Boston Celtics,New York Knicks
+02/03/2012,Dallas Mavericks,Indiana Pacers
+02/03/2012,Denver Nuggets,Los Angeles Lakers
+02/03/2012,Detroit Pistons,Milwaukee Bucks
+02/03/2012,Houston Rockets,Phoenix Suns
+02/03/2012,New Jersey Nets,Minnesota Timberwolves
+02/03/2012,Oklahoma City Thunder,Memphis Grizzlies
+02/03/2012,Orlando Magic,Cleveland Cavaliers
+02/03/2012,Philadelphia 76ers,Miami Heat
+02/03/2012,Toronto Raptors,Washington Wizards
+02/04/2012,Atlanta Hawks,Philadelphia 76ers
+02/04/2012,Cleveland Cavaliers,Dallas Mavericks
+02/04/2012,Detroit Pistons,New Orleans Hornets
+02/04/2012,Indiana Pacers,Orlando Magic
+02/04/2012,Milwaukee Bucks,Chicago Bulls
+02/04/2012,Minnesota Timberwolves,Houston Rockets
+02/04/2012,New York Knicks,New Jersey Nets
+02/04/2012,Phoenix Suns,Charlotte Bobcats
+02/04/2012,Portland Trail Blazers,Denver Nuggets
+02/04/2012,Sacramento Kings,Golden State Warriors
+02/04/2012,San Antonio Spurs,Oklahoma City Thunder
+02/04/2012,Utah Jazz,Los Angeles Lakers
+02/04/2012,Washington Wizards,Los Angeles Clippers
+02/05/2012,Boston Celtics,Memphis Grizzlies
+02/05/2012,Miami Heat,Toronto Raptors
+02/06/2012,Atlanta Hawks,Phoenix Suns
+02/06/2012,Denver Nuggets,Houston Rockets
+02/06/2012,Memphis Grizzlies,San Antonio Spurs
+02/06/2012,New Jersey Nets,Chicago Bulls
+02/06/2012,New Orleans Hornets,Sacramento Kings
+02/06/2012,New York Knicks,Utah Jazz
+02/06/2012,Orlando Magic,Los Angeles Clippers
+02/06/2012,Philadelphia 76ers,Los Angeles Lakers
+02/06/2012,Portland Trail Blazers,Oklahoma City Thunder
+02/06/2012,Washington Wizards,Toronto Raptors
+02/07/2012,Boston Celtics,Charlotte Bobcats
+02/07/2012,Golden State Warriors,Oklahoma City Thunder
+02/07/2012,Indiana Pacers,Utah Jazz
+02/07/2012,Miami Heat,Cleveland Cavaliers
+02/07/2012,Milwaukee Bucks,Phoenix Suns
+02/07/2012,Minnesota Timberwolves,Sacramento Kings
+02/08/2012,Atlanta Hawks,Indiana Pacers
+02/08/2012,Cleveland Cavaliers,Los Angeles Clippers
+02/08/2012,Denver Nuggets,Dallas Mavericks
+02/08/2012,Memphis Grizzlies,Minnesota Timberwolves
+02/08/2012,New Jersey Nets,Detroit Pistons
+02/08/2012,New Orleans Hornets,Chicago Bulls
+02/08/2012,Orlando Magic,Miami Heat
+02/08/2012,Philadelphia 76ers,San Antonio Spurs
+02/08/2012,Portland Trail Blazers,Houston Rockets
+02/08/2012,Toronto Raptors,Milwaukee Bucks
+02/08/2012,Washington Wizards,New York Knicks
+02/09/2012,Boston Celtics,Los Angeles Lakers
+02/09/2012,Denver Nuggets,Golden State Warriors
+02/09/2012,Phoenix Suns,Houston Rockets
+02/09/2012,Sacramento Kings,Oklahoma City Thunder
+02/10/2012,Charlotte Bobcats,Chicago Bulls
+02/10/2012,Cleveland Cavaliers,Milwaukee Bucks
+02/10/2012,Detroit Pistons,New Jersey Nets
+02/10/2012,Memphis Grizzlies,Indiana Pacers
+02/10/2012,Minnesota Timberwolves,Dallas Mavericks
+02/10/2012,New Orleans Hornets,Portland Trail Blazers
+02/10/2012,New York Knicks,Los Angeles Lakers
+02/10/2012,Orlando Magic,Atlanta Hawks
+02/10/2012,Philadelphia 76ers,Los Angeles Clippers
+02/10/2012,Toronto Raptors,Boston Celtics
+02/10/2012,Utah Jazz,Oklahoma City Thunder
+02/10/2012,Washington Wizards,Miami Heat
+02/11/2012,Charlotte Bobcats,Los Angeles Clippers
+02/11/2012,Cleveland Cavaliers,Philadelphia 76ers
+02/11/2012,Dallas Mavericks,Portland Trail Blazers
+02/11/2012,Indiana Pacers,Denver Nuggets
+02/11/2012,Milwaukee Bucks,Orlando Magic
+02/11/2012,Minnesota Timberwolves,New York Knicks
+02/11/2012,New Jersey Nets,San Antonio Spurs
+02/11/2012,Sacramento Kings,Phoenix Suns
+02/12/2012,Atlanta Hawks,Miami Heat
+02/12/2012,Boston Celtics,Chicago Bulls
+02/12/2012,Detroit Pistons,Washington Wizards
+02/12/2012,Golden State Warriors,Houston Rockets
+02/12/2012,Memphis Grizzlies,Utah Jazz
+02/12/2012,Toronto Raptors,Los Angeles Lakers
+02/13/2012,Charlotte Bobcats,Philadelphia 76ers
+02/13/2012,Dallas Mavericks,Los Angeles Clippers
+02/13/2012,Golden State Warriors,Phoenix Suns
+02/13/2012,Milwaukee Bucks,Miami Heat
+02/13/2012,New Orleans Hornets,Utah Jazz
+02/13/2012,Orlando Magic,Minnesota Timberwolves
+02/14/2012,Chicago Bulls,Sacramento Kings
+02/14/2012,Denver Nuggets,Phoenix Suns
+02/14/2012,Detroit Pistons,San Antonio Spurs
+02/14/2012,Indiana Pacers,Miami Heat
+02/14/2012,Los Angeles Lakers,Atlanta Hawks
+02/14/2012,Memphis Grizzlies,Houston Rockets
+02/14/2012,Oklahoma City Thunder,Utah Jazz
+02/14/2012,Portland Trail Blazers,Washington Wizards
+02/14/2012,Toronto Raptors,New York Knicks
+02/15/2012,Boston Celtics,Detroit Pistons
+02/15/2012,Cleveland Cavaliers,Indiana Pacers
+02/15/2012,Dallas Mavericks,Denver Nuggets
+02/15/2012,Golden State Warriors,Portland Trail Blazers
+02/15/2012,Houston Rockets,Oklahoma City Thunder
+02/15/2012,Los Angeles Clippers,Washington Wizards
+02/15/2012,Milwaukee Bucks,New Orleans Hornets
+02/15/2012,Minnesota Timberwolves,Charlotte Bobcats
+02/15/2012,New Jersey Nets,Memphis Grizzlies
+02/15/2012,New York Knicks,Sacramento Kings
+02/15/2012,Orlando Magic,Philadelphia 76ers
+02/15/2012,Phoenix Suns,Atlanta Hawks
+02/15/2012,Toronto Raptors,San Antonio Spurs
+02/16/2012,Chicago Bulls,Boston Celtics
+02/16/2012,Indiana Pacers,New Jersey Nets
+02/16/2012,Portland Trail Blazers,Los Angeles Clippers
+02/17/2012,Cleveland Cavaliers,Miami Heat
+02/17/2012,Detroit Pistons,Sacramento Kings
+02/17/2012,Houston Rockets,Minnesota Timberwolves
+02/17/2012,Los Angeles Lakers,Phoenix Suns
+02/17/2012,Memphis Grizzlies,Denver Nuggets
+02/17/2012,New York Knicks,New Orleans Hornets
+02/17/2012,Oklahoma City Thunder,Golden State Warriors
+02/17/2012,Orlando Magic,Milwaukee Bucks
+02/17/2012,Philadelphia 76ers,Dallas Mavericks
+02/17/2012,Toronto Raptors,Charlotte Bobcats
+02/17/2012,Utah Jazz,Washington Wizards
+02/18/2012,Chicago Bulls,New Jersey Nets
+02/18/2012,Los Angeles Clippers,San Antonio Spurs
+02/18/2012,Memphis Grizzlies,Golden State Warriors
+02/18/2012,Portland Trail Blazers,Atlanta Hawks
+02/19/2012,Cleveland Cavaliers,Sacramento Kings
+02/19/2012,Detroit Pistons,Boston Celtics
+02/19/2012,Houston Rockets,Utah Jazz
+02/19/2012,Indiana Pacers,Charlotte Bobcats
+02/19/2012,Miami Heat,Orlando Magic
+02/19/2012,Minnesota Timberwolves,Philadelphia 76ers
+02/19/2012,New Jersey Nets,Milwaukee Bucks
+02/19/2012,New York Knicks,Dallas Mavericks
+02/19/2012,Oklahoma City Thunder,Denver Nuggets
+02/19/2012,Phoenix Suns,Los Angeles Lakers
+02/20/2012,Chicago Bulls,Atlanta Hawks
+02/20/2012,Dallas Mavericks,Boston Celtics
+02/20/2012,Denver Nuggets,Minnesota Timberwolves
+02/20/2012,Golden State Warriors,Los Angeles Clippers
+02/20/2012,Houston Rockets,Memphis Grizzlies
+02/20/2012,Los Angeles Lakers,Portland Trail Blazers
+02/20/2012,Milwaukee Bucks,Orlando Magic
+02/20/2012,New York Knicks,New Jersey Nets
+02/20/2012,Oklahoma City Thunder,New Orleans Hornets
+02/20/2012,Phoenix Suns,Washington Wizards
+02/20/2012,Utah Jazz,San Antonio Spurs
+02/21/2012,Cleveland Cavaliers,Detroit Pistons
+02/21/2012,Indiana Pacers,New Orleans Hornets
+02/21/2012,Memphis Grizzlies,Philadelphia 76ers
+02/21/2012,Miami Heat,Sacramento Kings
+02/21/2012,Portland Trail Blazers,San Antonio Spurs
+02/22/2012,Charlotte Bobcats,Indiana Pacers
+02/22/2012,Chicago Bulls,Milwaukee Bucks
+02/22/2012,Cleveland Cavaliers,New Orleans Hornets
+02/22/2012,Dallas Mavericks,Los Angeles Lakers
+02/22/2012,Houston Rockets,Philadelphia 76ers
+02/22/2012,Los Angeles Clippers,Denver Nuggets
+02/22/2012,Minnesota Timberwolves,Utah Jazz
+02/22/2012,New Jersey Nets,Orlando Magic
+02/22/2012,New York Knicks,Atlanta Hawks
+02/22/2012,Oklahoma City Thunder,Boston Celtics
+02/22/2012,Phoenix Suns,Golden State Warriors
+02/22/2012,Toronto Raptors,Detroit Pistons
+02/22/2012,Washington Wizards,Sacramento Kings
+02/23/2012,Atlanta Hawks,Orlando Magic
+02/23/2012,Denver Nuggets,San Antonio Spurs
+02/23/2012,Miami Heat,New York Knicks
+02/23/2012,Oklahoma City Thunder,Los Angeles Lakers
+02/28/2012,Chicago Bulls,New Orleans Hornets
+02/28/2012,Cleveland Cavaliers,Boston Celtics
+02/28/2012,Dallas Mavericks,New Jersey Nets
+02/28/2012,Detroit Pistons,Philadelphia 76ers
+02/28/2012,Houston Rockets,Toronto Raptors
+02/28/2012,Indiana Pacers,Golden State Warriors
+02/28/2012,Los Angeles Clippers,Minnesota Timberwolves
+02/28/2012,Milwaukee Bucks,Washington Wizards
+02/28/2012,Sacramento Kings,Utah Jazz
+02/29/2012,Atlanta Hawks,Golden State Warriors
+02/29/2012,Boston Celtics,Milwaukee Bucks
+02/29/2012,Denver Nuggets,Portland Trail Blazers
+02/29/2012,Detroit Pistons,Charlotte Bobcats
+02/29/2012,Los Angeles Lakers,Minnesota Timberwolves
+02/29/2012,Memphis Grizzlies,Dallas Mavericks
+02/29/2012,New Orleans Hornets,Toronto Raptors
+02/29/2012,New York Knicks,Cleveland Cavaliers
+02/29/2012,Philadelphia 76ers,Oklahoma City Thunder
+02/29/2012,San Antonio Spurs,Chicago Bulls
+02/29/2012,Utah Jazz,Houston Rockets
+02/29/2012,Washington Wizards,Orlando Magic
+03/01/2012,Orlando Magic,Oklahoma City Thunder
+03/01/2012,Phoenix Suns,Minnesota Timberwolves
+03/01/2012,Portland Trail Blazers,Miami Heat
+03/01/2012,Sacramento Kings,Los Angeles Clippers
+03/02/2012,Atlanta Hawks,Milwaukee Bucks
+03/02/2012,Boston Celtics,New Jersey Nets
+03/02/2012,Cleveland Cavaliers,Chicago Bulls
+03/02/2012,Houston Rockets,Denver Nuggets
+03/02/2012,Los Angeles Lakers,Sacramento Kings
+03/02/2012,New Orleans Hornets,Dallas Mavericks
+03/02/2012,Philadelphia 76ers,Golden State Warriors
+03/02/2012,Phoenix Suns,Los Angeles Clippers
+03/02/2012,San Antonio Spurs,Charlotte Bobcats
+03/02/2012,Toronto Raptors,Memphis Grizzlies
+03/02/2012,Utah Jazz,Miami Heat
+03/03/2012,Atlanta Hawks,Oklahoma City Thunder
+03/03/2012,Dallas Mavericks,Utah Jazz
+03/03/2012,Memphis Grizzlies,Detroit Pistons
+03/03/2012,New Orleans Hornets,Indiana Pacers
+03/03/2012,Orlando Magic,Milwaukee Bucks
+03/03/2012,Portland Trail Blazers,Minnesota Timberwolves
+03/03/2012,Washington Wizards,Cleveland Cavaliers
+03/04/2012,Boston Celtics,New York Knicks
+03/04/2012,Charlotte Bobcats,New Jersey Nets
+03/04/2012,Houston Rockets,Los Angeles Clippers
+03/04/2012,Los Angeles Lakers,Miami Heat
+03/04/2012,Philadelphia 76ers,Chicago Bulls
+03/04/2012,Phoenix Suns,Sacramento Kings
+03/04/2012,San Antonio Spurs,Denver Nuggets
+03/04/2012,Toronto Raptors,Golden State Warriors
+03/05/2012,Chicago Bulls,Indiana Pacers
+03/05/2012,Cleveland Cavaliers,Utah Jazz
+03/05/2012,Denver Nuggets,Sacramento Kings
+03/05/2012,Milwaukee Bucks,Philadelphia 76ers
+03/05/2012,Minnesota Timberwolves,Los Angeles Clippers
+03/05/2012,Oklahoma City Thunder,Dallas Mavericks
+03/05/2012,Portland Trail Blazers,New Orleans Hornets
+03/05/2012,Toronto Raptors,Orlando Magic
+03/05/2012,Washington Wizards,Golden State Warriors
+03/06/2012,Boston Celtics,Houston Rockets
+03/06/2012,Charlotte Bobcats,Orlando Magic
+03/06/2012,Dallas Mavericks,New York Knicks
+03/06/2012,Detroit Pistons,Los Angeles Lakers
+03/06/2012,Indiana Pacers,Atlanta Hawks
+03/06/2012,Miami Heat,New Jersey Nets
+03/07/2012,Charlotte Bobcats,Utah Jazz
+03/07/2012,Denver Nuggets,Cleveland Cavaliers
+03/07/2012,Golden State Warriors,Memphis Grizzlies
+03/07/2012,Miami Heat,Atlanta Hawks
+03/07/2012,Milwaukee Bucks,Chicago Bulls
+03/07/2012,Minnesota Timberwolves,Portland Trail Blazers
+03/07/2012,New Jersey Nets,Los Angeles Clippers
+03/07/2012,Oklahoma City Thunder,Phoenix Suns
+03/07/2012,Philadelphia 76ers,Boston Celtics
+03/07/2012,Sacramento Kings,New Orleans Hornets
+03/07/2012,San Antonio Spurs,New York Knicks
+03/07/2012,Toronto Raptors,Houston Rockets
+03/07/2012,Washington Wizards,Los Angeles Lakers
+03/08/2012,Chicago Bulls,Orlando Magic
+03/08/2012,Phoenix Suns,Dallas Mavericks
+03/09/2012,Boston Celtics,Portland Trail Blazers
+03/09/2012,Charlotte Bobcats,New Jersey Nets
+03/09/2012,Denver Nuggets,New Orleans Hornets
+03/09/2012,Detroit Pistons,Atlanta Hawks
+03/09/2012,Milwaukee Bucks,New York Knicks
+03/09/2012,Minnesota Timberwolves,Los Angeles Lakers
+03/09/2012,Oklahoma City Thunder,Cleveland Cavaliers
+03/09/2012,Philadelphia 76ers,Utah Jazz
+03/09/2012,Sacramento Kings,Dallas Mavericks
+03/09/2012,San Antonio Spurs,Los Angeles Clippers
+03/10/2012,Chicago Bulls,Utah Jazz
+03/10/2012,Detroit Pistons,Toronto Raptors
+03/10/2012,Golden State Warriors,Dallas Mavericks
+03/10/2012,Miami Heat,Indiana Pacers
+03/10/2012,Minnesota Timberwolves,New Orleans Hornets
+03/10/2012,New Jersey Nets,Houston Rockets
+03/10/2012,Oklahoma City Thunder,Charlotte Bobcats
+03/10/2012,Phoenix Suns,Memphis Grizzlies
+03/10/2012,Washington Wizards,Portland Trail Blazers
+03/11/2012,Cleveland Cavaliers,Houston Rockets
+03/11/2012,Denver Nuggets,Memphis Grizzlies
+03/11/2012,Los Angeles Clippers,Golden State Warriors
+03/11/2012,Los Angeles Lakers,Boston Celtics
+03/11/2012,New York Knicks,Philadelphia 76ers
+03/11/2012,Orlando Magic,Indiana Pacers
+03/11/2012,Sacramento Kings,Atlanta Hawks
+03/11/2012,Toronto Raptors,Milwaukee Bucks
+03/12/2012,Chicago Bulls,New York Knicks
+03/12/2012,Los Angeles Clippers,Boston Celtics
+03/12/2012,New Jersey Nets,Milwaukee Bucks
+03/12/2012,New Orleans Hornets,Charlotte Bobcats
+03/12/2012,Phoenix Suns,Minnesota Timberwolves
+03/12/2012,San Antonio Spurs,Washington Wizards
+03/12/2012,Utah Jazz,Detroit Pistons
+03/13/2012,Cleveland Cavaliers,Toronto Raptors
+03/13/2012,Dallas Mavericks,Washington Wizards
+03/13/2012,Denver Nuggets,Atlanta Hawks
+03/13/2012,Indiana Pacers,Portland Trail Blazers
+03/13/2012,Memphis Grizzlies,Los Angeles Lakers
+03/13/2012,Oklahoma City Thunder,Houston Rockets
+03/13/2012,Orlando Magic,Miami Heat
+03/13/2012,Sacramento Kings,Golden State Warriors
+03/14/2012,Chicago Bulls,Miami Heat
+03/14/2012,Golden State Warriors,Boston Celtics
+03/14/2012,Houston Rockets,Charlotte Bobcats
+03/14/2012,Indiana Pacers,Philadelphia 76ers
+03/14/2012,Los Angeles Clippers,Atlanta Hawks
+03/14/2012,Milwaukee Bucks,Cleveland Cavaliers
+03/14/2012,New Jersey Nets,Toronto Raptors
+03/14/2012,New Orleans Hornets,Los Angeles Lakers
+03/14/2012,New York Knicks,Portland Trail Blazers
+03/14/2012,Phoenix Suns,Utah Jazz
+03/14/2012,Sacramento Kings,Detroit Pistons
+03/14/2012,San Antonio Spurs,Orlando Magic
+03/15/2012,Dallas Mavericks,Charlotte Bobcats
+03/15/2012,Denver Nuggets,Oklahoma City Thunder
+03/15/2012,Los Angeles Clippers,Phoenix Suns
+03/15/2012,New Orleans Hornets,Washington Wizards
+03/15/2012,Utah Jazz,Minnesota Timberwolves
+03/16/2012,Atlanta Hawks,Washington Wizards
+03/16/2012,Chicago Bulls,Portland Trail Blazers
+03/16/2012,Golden State Warriors,Milwaukee Bucks
+03/16/2012,Los Angeles Lakers,Minnesota Timberwolves
+03/16/2012,Memphis Grizzlies,Toronto Raptors
+03/16/2012,New York Knicks,Indiana Pacers
+03/16/2012,Oklahoma City Thunder,San Antonio Spurs
+03/16/2012,Orlando Magic,New Jersey Nets
+03/16/2012,Philadelphia 76ers,Miami Heat
+03/16/2012,Phoenix Suns,Detroit Pistons
+03/16/2012,Sacramento Kings,Boston Celtics
+03/17/2012,Charlotte Bobcats,Toronto Raptors
+03/17/2012,Chicago Bulls,Philadelphia 76ers
+03/17/2012,Dallas Mavericks,San Antonio Spurs
+03/17/2012,Denver Nuggets,Boston Celtics
+03/17/2012,Indiana Pacers,New York Knicks
+03/17/2012,Los Angeles Clippers,Houston Rockets
+03/17/2012,New Jersey Nets,New Orleans Hornets
+03/17/2012,Utah Jazz,Golden State Warriors
+03/18/2012,Cleveland Cavaliers,Atlanta Hawks
+03/18/2012,Los Angeles Clippers,Detroit Pistons
+03/18/2012,Los Angeles Lakers,Utah Jazz
+03/18/2012,Memphis Grizzlies,Washington Wizards
+03/18/2012,Miami Heat,Orlando Magic
+03/18/2012,Oklahoma City Thunder,Portland Trail Blazers
+03/18/2012,Phoenix Suns,Houston Rockets
+03/18/2012,Sacramento Kings,Minnesota Timberwolves
+03/19/2012,Atlanta Hawks,Boston Celtics
+03/19/2012,Charlotte Bobcats,Philadelphia 76ers
+03/19/2012,Denver Nuggets,Dallas Mavericks
+03/19/2012,Golden State Warriors,Minnesota Timberwolves
+03/19/2012,New Jersey Nets,Cleveland Cavaliers
+03/19/2012,Orlando Magic,Chicago Bulls
+03/20/2012,Houston Rockets,Los Angeles Lakers
+03/20/2012,Indiana Pacers,Los Angeles Clippers
+03/20/2012,Miami Heat,Phoenix Suns
+03/20/2012,New York Knicks,Toronto Raptors
+03/20/2012,Portland Trail Blazers,Milwaukee Bucks
+03/20/2012,Sacramento Kings,Memphis Grizzlies
+03/20/2012,Utah Jazz,Oklahoma City Thunder
+03/21/2012,Atlanta Hawks,Cleveland Cavaliers
+03/21/2012,Dallas Mavericks,Los Angeles Lakers
+03/21/2012,Denver Nuggets,Detroit Pistons
+03/21/2012,New Jersey Nets,Washington Wizards
+03/21/2012,New Orleans Hornets,Golden State Warriors
+03/21/2012,Oklahoma City Thunder,Los Angeles Clippers
+03/21/2012,Orlando Magic,Phoenix Suns
+03/21/2012,Philadelphia 76ers,New York Knicks
+03/21/2012,San Antonio Spurs,Minnesota Timberwolves
+03/21/2012,Toronto Raptors,Chicago Bulls
+03/22/2012,Houston Rockets,Golden State Warriors
+03/22/2012,Milwaukee Bucks,Boston Celtics
+03/22/2012,New Orleans Hornets,Los Angeles Clippers
+03/22/2012,Portland Trail Blazers,Memphis Grizzlies
+03/22/2012,Sacramento Kings,Utah Jazz
+03/22/2012,Washington Wizards,Indiana Pacers
+03/23/2012,Atlanta Hawks,New Jersey Nets
+03/23/2012,Charlotte Bobcats,Milwaukee Bucks
+03/23/2012,Detroit Pistons,Miami Heat
+03/23/2012,Indiana Pacers,Phoenix Suns
+03/23/2012,Los Angeles Lakers,Portland Trail Blazers
+03/23/2012,Oklahoma City Thunder,Minnesota Timberwolves
+03/23/2012,Orlando Magic,Cleveland Cavaliers
+03/23/2012,Philadelphia 76ers,Boston Celtics
+03/23/2012,San Antonio Spurs,Dallas Mavericks
+03/23/2012,Toronto Raptors,New York Knicks
+03/23/2012,Utah Jazz,Denver Nuggets
+03/24/2012,Chicago Bulls,Toronto Raptors
+03/24/2012,Golden State Warriors,Sacramento Kings
+03/24/2012,Houston Rockets,Dallas Mavericks
+03/24/2012,Los Angeles Clippers,Memphis Grizzlies
+03/24/2012,Milwaukee Bucks,Indiana Pacers
+03/24/2012,New Jersey Nets,Charlotte Bobcats
+03/24/2012,New Orleans Hornets,San Antonio Spurs
+03/24/2012,New York Knicks,Detroit Pistons
+03/24/2012,Washington Wizards,Atlanta Hawks
+03/25/2012,Atlanta Hawks,Utah Jazz
+03/25/2012,Boston Celtics,Washington Wizards
+03/25/2012,Cleveland Cavaliers,Phoenix Suns
+03/25/2012,Los Angeles Lakers,Memphis Grizzlies
+03/25/2012,Minnesota Timberwolves,Denver Nuggets
+03/25/2012,Oklahoma City Thunder,Miami Heat
+03/25/2012,Portland Trail Blazers,Golden State Warriors
+03/25/2012,San Antonio Spurs,Philadelphia 76ers
+03/26/2012,Charlotte Bobcats,Boston Celtics
+03/26/2012,Chicago Bulls,Denver Nuggets
+03/26/2012,Houston Rockets,Sacramento Kings
+03/26/2012,Indiana Pacers,Miami Heat
+03/26/2012,Los Angeles Clippers,New Orleans Hornets
+03/26/2012,New Jersey Nets,Utah Jazz
+03/26/2012,New York Knicks,Milwaukee Bucks
+03/26/2012,Toronto Raptors,Orlando Magic
+03/26/2012,Washington Wizards,Detroit Pistons
+03/27/2012,Dallas Mavericks,Houston Rockets
+03/27/2012,Golden State Warriors,Los Angeles Lakers
+03/27/2012,Memphis Grizzlies,Minnesota Timberwolves
+03/27/2012,Milwaukee Bucks,Atlanta Hawks
+03/27/2012,Philadelphia 76ers,Cleveland Cavaliers
+03/27/2012,Phoenix Suns,San Antonio Spurs
+03/27/2012,Portland Trail Blazers,Oklahoma City Thunder
+03/28/2012,Atlanta Hawks,Chicago Bulls
+03/28/2012,Boston Celtics,Utah Jazz
+03/28/2012,Charlotte Bobcats,Minnesota Timberwolves
+03/28/2012,Cleveland Cavaliers,Detroit Pistons
+03/28/2012,Golden State Warriors,New Orleans Hornets
+03/28/2012,Los Angeles Clippers,Phoenix Suns
+03/28/2012,New Jersey Nets,Indiana Pacers
+03/28/2012,New York Knicks,Orlando Magic
+03/28/2012,Sacramento Kings,San Antonio Spurs
+03/28/2012,Toronto Raptors,Denver Nuggets
+03/29/2012,Indiana Pacers,Washington Wizards
+03/29/2012,Los Angeles Lakers,Oklahoma City Thunder
+03/29/2012,Miami Heat,Dallas Mavericks
+03/29/2012,Portland Trail Blazers,New Orleans Hornets
+03/30/2012,Atlanta Hawks,New York Knicks
+03/30/2012,Charlotte Bobcats,Denver Nuggets
+03/30/2012,Chicago Bulls,Detroit Pistons
+03/30/2012,Cleveland Cavaliers,Milwaukee Bucks
+03/30/2012,Golden State Warriors,New Jersey Nets
+03/30/2012,Houston Rockets,Memphis Grizzlies
+03/30/2012,Los Angeles Clippers,Portland Trail Blazers
+03/30/2012,Minnesota Timberwolves,Boston Celtics
+03/30/2012,Orlando Magic,Dallas Mavericks
+03/30/2012,Toronto Raptors,Miami Heat
+03/30/2012,Utah Jazz,Sacramento Kings
+03/30/2012,Washington Wizards,Philadelphia 76ers
+03/31/2012,Detroit Pistons,Charlotte Bobcats
+03/31/2012,Los Angeles Clippers,Utah Jazz
+03/31/2012,Los Angeles Lakers,New Orleans Hornets
+03/31/2012,Milwaukee Bucks,Memphis Grizzlies
+03/31/2012,New York Knicks,Cleveland Cavaliers
+03/31/2012,Philadelphia 76ers,Atlanta Hawks
+03/31/2012,Sacramento Kings,New Jersey Nets
+03/31/2012,San Antonio Spurs,Indiana Pacers
+04/01/2012,Boston Celtics,Miami Heat
+04/01/2012,Houston Rockets,Indiana Pacers
+04/01/2012,Los Angeles Lakers,Golden State Warriors
+04/01/2012,Oklahoma City Thunder,Chicago Bulls
+04/01/2012,Orlando Magic,Denver Nuggets
+04/01/2012,Phoenix Suns,New Orleans Hornets
+04/01/2012,Portland Trail Blazers,Minnesota Timberwolves
+04/01/2012,Toronto Raptors,Washington Wizards
+04/02/2012,Chicago Bulls,Houston Rockets
+04/02/2012,Dallas Mavericks,Los Angeles Clippers
+04/02/2012,Oklahoma City Thunder,Memphis Grizzlies
+04/02/2012,Portland Trail Blazers,Utah Jazz
+04/02/2012,Sacramento Kings,Minnesota Timberwolves
+04/02/2012,Washington Wizards,Milwaukee Bucks
+04/03/2012,Cleveland Cavaliers,San Antonio Spurs
+04/03/2012,Detroit Pistons,Orlando Magic
+04/03/2012,Indiana Pacers,New York Knicks
+04/03/2012,Los Angeles Lakers,New Jersey Nets
+04/03/2012,Memphis Grizzlies,Golden State Warriors
+04/03/2012,Miami Heat,Philadelphia 76ers
+04/03/2012,Sacramento Kings,Phoenix Suns
+04/03/2012,Toronto Raptors,Charlotte Bobcats
+04/04/2012,Atlanta Hawks,Charlotte Bobcats
+04/04/2012,Boston Celtics,San Antonio Spurs
+04/04/2012,Dallas Mavericks,Memphis Grizzlies
+04/04/2012,Los Angeles Clippers,Los Angeles Lakers
+04/04/2012,Miami Heat,Oklahoma City Thunder
+04/04/2012,Milwaukee Bucks,Cleveland Cavaliers
+04/04/2012,Minnesota Timberwolves,Golden State Warriors
+04/04/2012,New Orleans Hornets,Denver Nuggets
+04/04/2012,Philadelphia 76ers,Toronto Raptors
+04/04/2012,Portland Trail Blazers,New Jersey Nets
+04/04/2012,Utah Jazz,Phoenix Suns
+04/04/2012,Washington Wizards,Indiana Pacers
+04/05/2012,Chicago Bulls,Boston Celtics
+04/05/2012,Detroit Pistons,Washington Wizards
+04/05/2012,Orlando Magic,New York Knicks
+04/05/2012,Sacramento Kings,Los Angeles Clippers
+04/06/2012,Atlanta Hawks,Detroit Pistons
+04/06/2012,Dallas Mavericks,Portland Trail Blazers
+04/06/2012,Denver Nuggets,Phoenix Suns
+04/06/2012,Indiana Pacers,Oklahoma City Thunder
+04/06/2012,Los Angeles Lakers,Houston Rockets
+04/06/2012,Miami Heat,Memphis Grizzlies
+04/06/2012,Milwaukee Bucks,Charlotte Bobcats
+04/06/2012,New Jersey Nets,Washington Wizards
+04/06/2012,San Antonio Spurs,New Orleans Hornets
+04/06/2012,Toronto Raptors,Cleveland Cavaliers
+04/06/2012,Utah Jazz,Golden State Warriors
+04/07/2012,Charlotte Bobcats,Atlanta Hawks
+04/07/2012,Golden State Warriors,Denver Nuggets
+04/07/2012,Indiana Pacers,Boston Celtics
+04/07/2012,Los Angeles Clippers,Sacramento Kings
+04/07/2012,Memphis Grizzlies,Dallas Mavericks
+04/07/2012,Milwaukee Bucks,Portland Trail Blazers
+04/07/2012,New Orleans Hornets,Minnesota Timberwolves
+04/07/2012,Philadelphia 76ers,Orlando Magic
+04/07/2012,Phoenix Suns,Los Angeles Lakers
+04/08/2012,Boston Celtics,Philadelphia 76ers
+04/08/2012,Miami Heat,Detroit Pistons
+04/08/2012,New Jersey Nets,Cleveland Cavaliers
+04/08/2012,New York Knicks,Chicago Bulls
+04/08/2012,Oklahoma City Thunder,Toronto Raptors
+04/08/2012,Sacramento Kings,Houston Rockets
+04/08/2012,San Antonio Spurs,Utah Jazz
+04/09/2012,Charlotte Bobcats,Washington Wizards
+04/09/2012,Denver Nuggets,Golden State Warriors
+04/09/2012,Indiana Pacers,Toronto Raptors
+04/09/2012,Memphis Grizzlies,Los Angeles Clippers
+04/09/2012,Milwaukee Bucks,Oklahoma City Thunder
+04/09/2012,Minnesota Timberwolves,Phoenix Suns
+04/09/2012,New Orleans Hornets,Los Angeles Lakers
+04/09/2012,Orlando Magic,Detroit Pistons
+04/09/2012,Portland Trail Blazers,Houston Rockets
+04/09/2012,Utah Jazz,San Antonio Spurs
+04/10/2012,Chicago Bulls,New York Knicks
+04/10/2012,Cleveland Cavaliers,Charlotte Bobcats
+04/10/2012,Dallas Mavericks,Sacramento Kings
+04/10/2012,Miami Heat,Boston Celtics
+04/10/2012,New Jersey Nets,Philadelphia 76ers
+04/10/2012,Washington Wizards,Orlando Magic
+04/11/2012,Boston Celtics,Atlanta Hawks
+04/11/2012,Cleveland Cavaliers,Indiana Pacers
+04/11/2012,Denver Nuggets,Minnesota Timberwolves
+04/11/2012,Houston Rockets,Utah Jazz
+04/11/2012,Memphis Grizzlies,Phoenix Suns
+04/11/2012,Milwaukee Bucks,New York Knicks
+04/11/2012,New Orleans Hornets,Sacramento Kings
+04/11/2012,Oklahoma City Thunder,Los Angeles Clippers
+04/11/2012,Portland Trail Blazers,Golden State Warriors
+04/11/2012,San Antonio Spurs,Los Angeles Lakers
+04/11/2012,Toronto Raptors,Philadelphia 76ers
+04/12/2012,Charlotte Bobcats,Detroit Pistons
+04/12/2012,Chicago Bulls,Miami Heat
+04/12/2012,Golden State Warriors,Dallas Mavericks
+04/12/2012,Minnesota Timberwolves,Los Angeles Clippers
+04/12/2012,San Antonio Spurs,Memphis Grizzlies
+04/13/2012,Detroit Pistons,Milwaukee Bucks
+04/13/2012,Houston Rockets,Phoenix Suns
+04/13/2012,Indiana Pacers,Cleveland Cavaliers
+04/13/2012,Los Angeles Lakers,Denver Nuggets
+04/13/2012,Miami Heat,Charlotte Bobcats
+04/13/2012,New Orleans Hornets,Utah Jazz
+04/13/2012,New York Knicks,Washington Wizards
+04/13/2012,Oklahoma City Thunder,Sacramento Kings
+04/13/2012,Orlando Magic,Atlanta Hawks
+04/13/2012,Philadelphia 76ers,New Jersey Nets
+04/13/2012,Portland Trail Blazers,Dallas Mavericks
+04/13/2012,Toronto Raptors,Boston Celtics
+04/14/2012,Los Angeles Clippers,Golden State Warriors
+04/14/2012,Memphis Grizzlies,Utah Jazz
+04/14/2012,Milwaukee Bucks,Indiana Pacers
+04/14/2012,Minnesota Timberwolves,Oklahoma City Thunder
+04/14/2012,New Jersey Nets,Boston Celtics
+04/14/2012,San Antonio Spurs,Phoenix Suns
+04/14/2012,Washington Wizards,Cleveland Cavaliers
+04/15/2012,Atlanta Hawks,Toronto Raptors
+04/15/2012,Charlotte Bobcats,Boston Celtics
+04/15/2012,Cleveland Cavaliers,Orlando Magic
+04/15/2012,Denver Nuggets,Houston Rockets
+04/15/2012,Detroit Pistons,Chicago Bulls
+04/15/2012,Los Angeles Lakers,Dallas Mavericks
+04/15/2012,New Orleans Hornets,Memphis Grizzlies
+04/15/2012,New York Knicks,Miami Heat
+04/15/2012,Sacramento Kings,Portland Trail Blazers
+04/16/2012,Charlotte Bobcats,New Orleans Hornets
+04/16/2012,Chicago Bulls,Washington Wizards
+04/16/2012,Golden State Warriors,San Antonio Spurs
+04/16/2012,Houston Rockets,Denver Nuggets
+04/16/2012,Indiana Pacers,Minnesota Timberwolves
+04/16/2012,Los Angeles Clippers,Oklahoma City Thunder
+04/16/2012,New Jersey Nets,Miami Heat
+04/16/2012,Orlando Magic,Philadelphia 76ers
+04/16/2012,Phoenix Suns,Portland Trail Blazers
+04/16/2012,Toronto Raptors,Atlanta Hawks
+04/16/2012,Utah Jazz,Dallas Mavericks
+04/17/2012,Detroit Pistons,Cleveland Cavaliers
+04/17/2012,Los Angeles Lakers,San Antonio Spurs
+04/17/2012,Minnesota Timberwolves,Memphis Grizzlies
+04/17/2012,New York Knicks,Boston Celtics
+04/17/2012,Philadelphia 76ers,Indiana Pacers
+04/18/2012,Atlanta Hawks,Detroit Pistons
+04/18/2012,Boston Celtics,Orlando Magic
+04/18/2012,Charlotte Bobcats,Chicago Bulls
+04/18/2012,Cleveland Cavaliers,Philadelphia 76ers
+04/18/2012,Dallas Mavericks,Houston Rockets
+04/18/2012,Denver Nuggets,Los Angeles Clippers
+04/18/2012,Golden State Warriors,Los Angeles Lakers
+04/18/2012,Memphis Grizzlies,New Orleans Hornets
+04/18/2012,Miami Heat,Toronto Raptors
+04/18/2012,New Jersey Nets,New York Knicks
+04/18/2012,Phoenix Suns,Oklahoma City Thunder
+04/18/2012,Portland Trail Blazers,Utah Jazz
+04/18/2012,Sacramento Kings,San Antonio Spurs
+04/18/2012,Washington Wizards,Milwaukee Bucks
+04/19/2012,Detroit Pistons,Minnesota Timberwolves
+04/19/2012,Indiana Pacers,Milwaukee Bucks
+04/19/2012,Miami Heat,Chicago Bulls
+04/19/2012,New Orleans Hornets,Houston Rockets
+04/19/2012,Phoenix Suns,Los Angeles Clippers
+04/20/2012,Atlanta Hawks,Boston Celtics
+04/20/2012,Charlotte Bobcats,Memphis Grizzlies
+04/20/2012,Cleveland Cavaliers,New York Knicks
+04/20/2012,Dallas Mavericks,Golden State Warriors
+04/20/2012,Sacramento Kings,Oklahoma City Thunder
+04/20/2012,San Antonio Spurs,Los Angeles Lakers
+04/21/2012,Chicago Bulls,Dallas Mavericks
+04/21/2012,Houston Rockets,Golden State Warriors
+04/21/2012,Indiana Pacers,Philadelphia 76ers
+04/21/2012,Memphis Grizzlies,Portland Trail Blazers
+04/21/2012,Miami Heat,Washington Wizards
+04/21/2012,Milwaukee Bucks,New Jersey Nets
+04/21/2012,Phoenix Suns,Denver Nuggets
+04/21/2012,Utah Jazz,Orlando Magic
+04/22/2012,Atlanta Hawks,New York Knicks
+04/22/2012,Charlotte Bobcats,Sacramento Kings
+04/22/2012,Denver Nuggets,Orlando Magic
+04/22/2012,Detroit Pistons,Toronto Raptors
+04/22/2012,Los Angeles Clippers,New Orleans Hornets
+04/22/2012,Los Angeles Lakers,Oklahoma City Thunder
+04/22/2012,Miami Heat,Houston Rockets
+04/22/2012,Minnesota Timberwolves,Golden State Warriors
+04/22/2012,San Antonio Spurs,Cleveland Cavaliers
+04/23/2012,Indiana Pacers,Detroit Pistons
+04/23/2012,Memphis Grizzlies,Cleveland Cavaliers
+04/23/2012,Milwaukee Bucks,Toronto Raptors
+04/23/2012,New Jersey Nets,Philadelphia 76ers
+04/23/2012,San Antonio Spurs,Portland Trail Blazers
+04/23/2012,Washington Wizards,Charlotte Bobcats
+04/24/2012,Atlanta Hawks,Los Angeles Clippers
+04/24/2012,Boston Celtics,Miami Heat
+04/24/2012,Golden State Warriors,New Orleans Hornets
+04/24/2012,Oklahoma City Thunder,Sacramento Kings
+04/24/2012,Utah Jazz,Phoenix Suns
+04/25/2012,Cleveland Cavaliers,Washington Wizards
+04/25/2012,Indiana Pacers,Chicago Bulls
+04/25/2012,Milwaukee Bucks,Philadelphia 76ers
+04/25/2012,New York Knicks,Los Angeles Clippers
+04/25/2012,Oklahoma City Thunder,Denver Nuggets
+04/25/2012,Orlando Magic,Charlotte Bobcats
+04/25/2012,Phoenix Suns,San Antonio Spurs
+04/26/2012,Atlanta Hawks,Dallas Mavericks
+04/26/2012,Boston Celtics,Milwaukee Bucks
+04/26/2012,Charlotte Bobcats,New York Knicks
+04/26/2012,Chicago Bulls,Cleveland Cavaliers
+04/26/2012,Detroit Pistons,Philadelphia 76ers
+04/26/2012,Golden State Warriors,San Antonio Spurs
+04/26/2012,Houston Rockets,New Orleans Hornets
+04/26/2012,Memphis Grizzlies,Orlando Magic
+04/26/2012,Minnesota Timberwolves,Denver Nuggets
+04/26/2012,Sacramento Kings,Los Angeles Lakers
+04/26/2012,Toronto Raptors,New Jersey Nets
+04/26/2012,Utah Jazz,Portland Trail Blazers
+04/26/2012,Washington Wizards,Miami Heat

@@ -1,0 +1,30 @@
+Chicago Bulls,95
+San Antonio Spurs,95
+Oklahoma City Thunder,93
+Miami Heat,92
+Indiana Pacers,89
+Los Angeles Lakers,89
+Memphis Grizzlies,89
+Atlanta Hawks,88
+Los Angeles Clippers,88
+Boston Celtics,87
+Denver Nuggets,87
+Orlando Magic,86
+Dallas Mavericks,85
+New York Knicks,85
+Utah Jazz,85
+Philadelphia 76ers,85
+Houston Rockets,84
+Phoenix Suns,83
+Milwaukee Bucks,82
+Portland Trail Blazers,80
+Minnesota Timberwolves,78
+Detroit Pistons,78
+Golden State Warriors,76
+Toronto Raptors,76
+New Jersey Nets,75
+Sacramento Kings,75
+Cleveland Cavaliers,75
+New Orleans Hornets,75
+Washington Wizards,74
+Charlotte Bobcats,65

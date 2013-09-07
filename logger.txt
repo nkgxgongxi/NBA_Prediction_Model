@@ -1,0 +1,71 @@
+2013/09/07 01:26:39
+2013/09/07 01:26:39
+2013/09/07 01:26:41
+2013/09/07 01:26:41
+2013/09/07 02:48:30
+2013/09/07 02:50:25
+2013/09/07 02:50:53
+2013/09/07 02:51:43
+2013/09/07 02:53:56
+Done.
+Team Name  Win Loss
+Lakers  0  1
+Heat  1  0
+2013/09/07 02:53:56
+2013/09/07 02:54:13
+Done.
+Team Name  Win Loss
+Lakers  0  1
+Heat  1  0
+2013/09/07 02:54:13
+2013/09/07 04:38:47
+2013/09/07 04:39:23
+2013/09/07 05:22:24
+Has processed 5.05050505050505%
+Has processed 10.1010101010101%
+Has processed 15.151515151515152%
+Has processed 20.2020202020202%
+Has processed 25.252525252525253%
+Has processed 30.303030303030305%
+Has processed 35.35353535353536%
+Has processed 40.4040404040404%
+Has processed 45.45454545454545%
+Has processed 50.505050505050505%
+Has processed 55.55555555555556%
+Has processed 60.60606060606061%
+Has processed 65.65656565656566%
+Has processed 70.70707070707071%
+Has processed 75.75757575757575%
+Has processed 80.8080808080808%
+Has processed 85.85858585858585%
+Has processed 90.9090909090909%
+Has processed 95.95959595959596%
+Done.
+Team Name  Win Loss
+Charlotte Bobcats  0  66
+Sacramento Kings  4  62
+New Orleans Hornets  6  60
+Cleveland Cavaliers  10  56
+Golden State Warriors  13  53
+Minnesota Timberwolves  16  50
+Toronto Raptors  17  49
+Portland Trail Blazers  22  44
+Detroit Pistons  23  43
+Phoenix Suns  25  41
+Milwaukee Bucks  27  39
+Houston Rockets  30  36
+Dallas Mavericks  32  34
+Philadelphia 76ers  35  31
+Utah Jazz  36  30
+New York Knicks  37  29
+Orlando Magic  40  26
+Denver Nuggets  44  22
+Los Angeles Clippers  49  17
+Atlanta Hawks  50  16
+Memphis Grizzlies  54  12
+Indiana Pacers  55  11
+Miami Heat  59  7
+Oklahoma City Thunder  62  4
+San Antonio Spurs  65  1
+Chicago Bulls  66  0
+2013/09/07 05:22:24

@@ -1,0 +1,30 @@
+Chicago Bulls	95
+San Antonio Spurs	95
+Oklahoma City Thunder	92.90697674
+Miami Heat	92.20930233
+Indiana Pacers	89.41860465
+Los Angeles Lakers	88.72093023
+Memphis Grizzlies	88.72093023
+Atlanta Hawks	88.02325581
+Los Angeles Clippers	88.02325581
+Boston Celtics	87.3255814
+Denver Nuggets	86.62790698
+Orlando Magic	85.93023256
+Dallas Mavericks	85.23255814
+New York Knicks	85.23255814
+Utah Jazz	85.23255814
+Philadelphia 76ers	84.53488372
+Houston Rockets	83.8372093
+Phoenix Suns	83.13953488
+Milwaukee Bucks	81.74418605
+Portland Trail Blazers	79.65116279
+Minnesota Timberwolves	78.25581395
+Detroit Pistons	77.55813953
+Golden State Warriors	76.1627907
+Toronto Raptors	76.1627907
+New Jersey Nets	75.46511628
+Sacramento Kings	75.46511628
+Cleveland Cavaliers	74.76744186
+New Orleans Hornets	74.76744186
+Washington Wizards	74.06976744
+Charlotte Bobcats	65

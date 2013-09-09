@@ -7,7 +7,7 @@ import java.util.*;
 import java.text.*;
 
 public class Simulation {
-	HashMap<String, Team> teams = new HashMap<String, Team>();
+	Map<String, Team> teams = new HashMap<String, Team>();
 	ArrayList<Game> games = new ArrayList<Game>();
 	int counter = 0;
 	
@@ -16,6 +16,10 @@ public class Simulation {
 		printDate();
 		initlization();
 		updateRecords();
+		if(valiadation())
+			Logger.log("The game numbers are consistent.");
+		else
+			Logger.log("There is probably some bugs in the program.");
 		getResult();
 		printDate();
 	}
@@ -49,14 +53,13 @@ public class Simulation {
 	}
 	
 	public void updateRecords() {
-		int count = 0;
-		int num = games.size();
+		Team.gameNum = games.size()*2/teams.size();
+//		System.out.println(Team.gameNum);
 		for(Game g : games) {
-			count++;
 			Team home = teams.get(g.homeTeam);
 			Team road = teams.get(g.roadTeam);
-			int homeScore = home.ratingScore;
-			int roadScore = road.ratingScore;
+			int homeScore = home.updateDynamicScore(g.homeTeam);
+			int roadScore = road.updateDynamicScore(g.homeTeam);
 			if(g.getWinner(homeScore, roadScore).equals(home.name)) {
 				home.updateWin();
 				road.updateLoss();
@@ -65,11 +68,15 @@ public class Simulation {
 				home.updateLoss();
 				road.updateWin();
 			}
-			if(count % 50 == 0) {
-				Logger.log("Has processed " + (count*100.0/num) +"%");
-			}
 		}
-		Logger.log("Done.");
+	}
+	
+	public boolean valiadation(){
+		for(String s : teams.keySet()) {
+			if((teams.get(s).winNum + teams.get(s).lossNum) != Team.gameNum)
+				return false;
+		}
+		return true;
 	}
 	
 	public void printDate() {
@@ -79,20 +86,34 @@ public class Simulation {
 	}
 	
 	public void getResult() {
-		//The reason of using treeMap here is that it's automatically sorted.
-		TreeMap<Integer, String> sum = new TreeMap<Integer, String>();
+		Map<String, Integer> ranking = new HashMap<String, Integer>();
 		for(String s : teams.keySet()) {
-			sum.put(teams.get(s).winNum, s);
+			ranking.put(s, teams.get(s).winNum);
 		}
-		printResult(sum);
+		ranking = sortByValue(ranking);
+		printResult(ranking);
 		
 	}
 	
-	public void printResult(TreeMap<Integer, String> sum) {
+	public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue( Map<K, V> map ) {
+		List<Map.Entry<K, V>> list = new LinkedList<Map.Entry<K, V>>( map.entrySet() );
+		Collections.sort( list, new Comparator<Map.Entry<K, V>>() {
+			public int compare( Map.Entry<K, V> o1, Map.Entry<K, V> o2 ) {
+				return (0 - (o1.getValue()).compareTo(o2.getValue()));
+			}
+		});
+		Map<K, V> result = new LinkedHashMap<K, V>();
+		for(Map.Entry<K, V> entry : list) {
+			result.put( entry.getKey(), entry.getValue() );
+		}
+		return result;
+	}
+	
+	public void printResult(Map<String, Integer> sum) {
 		Logger.log("Team Name  Win Loss");
-		for(Map.Entry<Integer, String> entry : sum.entrySet()) {
-			String teamName = entry.getValue();
-			Logger.log(teamName + "  " + teams.get(teamName).winNum + "  " + teams.get(teamName).lossNum);
+		for(String s : sum.keySet()) {
+			String teamName = s;
+			Logger.log(teamName + "  " + sum.get(teamName) + "  " + (Team.gameNum - sum.get(teamName)));
 		}
 	}
 

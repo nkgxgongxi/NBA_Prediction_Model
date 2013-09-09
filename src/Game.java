@@ -21,11 +21,11 @@ public class Game {
 	
 	public String getWinner(int homeScore, int roadScore) {
 		Random randomGenerator = new Random();
-		if(homeScore > roadScore) {
+		if(homeScore - roadScore > 3) {
 			this.winner = this.homeTeam;
 			return this.homeTeam;
 		}
-		else if(homeScore < roadScore) {
+		else if(homeScore - roadScore < 3) {
 			this.winner = this.roadTeam;
 			return this.roadTeam;
 		}

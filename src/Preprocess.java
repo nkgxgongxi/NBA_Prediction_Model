@@ -47,18 +47,11 @@ public class Preprocess {
 			while(s.hasNextLine()) {
 				String[] buffer = s.nextLine().split("\t");
 				String[] subbuffer = buffer[0].split(" ");
-//				for(String t : subbuffer) 
-//					System.out.println(t);
 				String dateString = subbuffer[1] + " " + subbuffer[2] + " " + subbuffer[3];
-//				String roadTeam = buffer[1];
-//				for(int i = 5; i < subbuffer.length; i++) 
-//					roadTeam = roadTeam.concat(" ").concat(subbuffer[i]);
 				DateFormat df = new SimpleDateFormat("MMM dd yyyy", Locale.ENGLISH);
 				Date temp = df.parse(dateString);
-//				System.out.println(temp);
 				df = new SimpleDateFormat("MM/dd/yyyy");
 				dateString = df.format(temp);
-//				System.out.println(dateString);
 				String b = dateString.concat(",").concat(buffer[2]).concat(",").concat(buffer[1]);
 				p.println(b);
 			}

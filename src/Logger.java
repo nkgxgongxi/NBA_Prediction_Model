@@ -14,7 +14,9 @@ public class Logger {
 		try {
 			prop.load(new FileInputStream("config.properties"));
 			PrintWriter out = new PrintWriter(new FileWriter(prop.getProperty("logger"), true));
+			out.println();
 			out.println(message);
+			out.println();
 			out.close();
 		}catch(IOException e){
 			e.printStackTrace();

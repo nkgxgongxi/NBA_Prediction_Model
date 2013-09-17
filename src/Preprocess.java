@@ -32,6 +32,7 @@ public class Preprocess {
 				String b = buffer[0] + "," + buffer[1];
 				p.println(b);
 			}
+			s.close();
 			p.close();
 		}catch(FileNotFoundException e1) {
 			e1.printStackTrace();
@@ -55,6 +56,7 @@ public class Preprocess {
 				String b = dateString.concat(",").concat(buffer[2]).concat(",").concat(buffer[1]);
 				p.println(b);
 			}
+			s.close();
 			p.close();
 		}catch(FileNotFoundException e1) {
 			e1.printStackTrace();
